@@ -5,3 +5,5 @@ Basically, Python is smart and seems to be like the swiss-knife of any programmi
 
 Yes I can add this directly from command line which python okay can do also
 You are awesome....
+
+This is pathetic and starting to be really strange for me.
