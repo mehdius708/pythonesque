@@ -17,6 +17,7 @@ But what about if I start to create some branches everywhere on this file and tr
 
 This has been added on August 21st, 2020
 
+
 I will insert many change to README.md file here just to understand better branching in GIT and how it works.
 
 Of course just for fun.
@@ -25,3 +26,6 @@ This to demonstrate branching in GIT efficiency.
 
 And Here the master branch is continuing it's way like nothing has occured elsewhere in the world.
 This will fix merging conflicts between master and exemple branches.
+
+And Here the master branch is continuing it's way like nothing has occured elsewhere in the world.
+
