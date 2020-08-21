@@ -10,3 +10,4 @@ This is pathetic and starting to be really strange for me.
 
 But what about if I start to create some branches everywhere on this file and try to merge them after certain changes occurs...
 This has been added on August 21st, 2020
+And Here the master branch is continuing it's way like nothing has occured elsewhere in the world.
